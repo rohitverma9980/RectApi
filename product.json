@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "price": 150,
+    "featured": true,
+    "rating": 4.5,
+    "company": "sony",
+    "image": "https://example.com/images/headphones.jpg",
+    "description": "Enjoy rich, immersive sound with these wireless headphones. They offer long battery life and superior comfort for extended listening sessions. Ideal for music lovers and gamers."
+  },
+  {
+    "name": "Gaming Laptop",
+    "price": 1200,
+    "featured": false,
+    "rating": 4.8,
+    "company": "asus",
+    "image": "https://example.com/images/laptop.jpg",
+    "description": "This powerful gaming laptop features a high-refresh-rate display and advanced graphics. Experience smooth gameplay and blazing-fast performance. Perfect for serious gamers and creators."
+  },
+  {
+    "name": "Smartphone Pro",
+    "price": 900,
+    "featured": true,
+    "rating": 4.6,
+    "company": "apple",
+    "image": "https://example.com/images/smartphone.jpg",
+    "description": "The Smartphone Pro delivers stunning photos and lightning-fast performance. Its sleek design fits comfortably in your hand. A perfect companion for work and play."
+  },
+  {
+    "name": "4K LED TV",
+    "price": 700,
+    "featured": false,
+    "rating": 4.4,
+    "company": "samsung",
+    "image": "https://example.com/images/tv.jpg",
+    "description": "Bring your entertainment to life with this vibrant 4K LED TV. Enjoy crystal-clear visuals and rich audio. Great for movies, sports, and gaming."
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 80,
+    "featured": true,
+    "rating": 4.7,
+    "company": "mi",
+    "image": "https://example.com/images/speaker.jpg",
+    "description": "This portable Bluetooth speaker delivers powerful sound in a compact size. Its long-lasting battery keeps your music going all day. Perfect for parties and travel."
+  },
+  {
+    "name": "Tablet S",
+    "price": 300,
+    "featured": false,
+    "rating": 4.3,
+    "company": "lenovo",
+    "image": "https://example.com/images/tablet.jpg",
+    "description": "The Tablet S offers smooth multitasking and a crisp display. Great for reading, browsing, and entertainment on the go. Lightweight and easy to carry."
+  },
+  {
+    "name": "Smart Watch",
+    "price": 200,
+    "featured": true,
+    "rating": 4.5,
+    "company": "realme",
+    "image": "https://example.com/images/watch.jpg",
+    "description": "Track your fitness and stay connected with this smart watch. It features health monitoring and notifications at a glance. Stylish and functional."
+  },
+  {
+    "name": "All-in-One Printer",
+    "price": 250,
+    "featured": false,
+    "rating": 4.2,
+    "company": "hp",
+    "image": "https://example.com/images/printer.jpg",
+    "description": "Print, scan, and copy with this versatile all-in-one printer. Enjoy high-quality prints and wireless connectivity. Perfect for home or office use."
+  },
+  {
+    "name": "Gaming Console",
+    "price": 500,
+    "featured": true,
+    "rating": 4.8,
+    "company": "sony",
+    "image": "https://example.com/images/console.jpg",
+    "description": "Dive into immersive gaming with this next-gen console. Enjoy fast load times and stunning graphics. Ideal for hardcore gamers."
+  },
+  {
+    "name": "Noise Cancelling Earbuds",
+    "price": 120,
+    "featured": true,
+    "rating": 4.6,
+    "company": "oneplus",
+    "image": "https://example.com/images/earbuds.jpg",
+    "description": "These earbuds block out unwanted noise for a pure listening experience. Comfortable fit and excellent sound quality. Great for travel and daily use."
+  },
+  {
+    "name": "Portable Projector",
+    "price": 400,
+    "featured": false,
+    "rating": 4.3,
+    "company": "asus",
+    "image": "https://example.com/images/projector.jpg",
+    "description": "Project your favorite movies and presentations anywhere. Compact design with bright, clear visuals. Perfect for home entertainment and business."
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 90,
+    "featured": true,
+    "rating": 4.4,
+    "company": "realme",
+    "image": "https://example.com/images/tracker.jpg",
+    "description": "Monitor your activity and health stats throughout the day. Lightweight and comfortable to wear. Stay motivated with this smart fitness tracker."
+  },
+  {
+    "name": "Smartphone Mini",
+    "price": 500,
+    "featured": false,
+    "rating": 4.2,
+    "company": "mi",
+    "image": "https://example.com/images/smartphonemini.jpg",
+    "description": "Compact yet powerful, this smartphone fits in your pocket. Fast performance and great camera quality. Ideal for those who prefer smaller devices."
+  },
+  {
+    "name": "Business Laptop",
+    "price": 1000,
+    "featured": true,
+    "rating": 4.7,
+    "company": "hp",
+    "image": "https://example.com/images/businesslaptop.jpg",
+    "description": "This business laptop combines performance with portability. Ideal for productivity and multitasking. Sleek design and long battery life."
+  },
+  {
+    "name": "Tablet Pro",
+    "price": 600,
+    "featured": true,
+    "rating": 4.6,
+    "company": "apple",
+    "image": "https://example.com/images/tabletpro.jpg",
+    "description": "Experience the power of a laptop in a tablet. Perfect for creative work, gaming, and streaming. Lightweight and powerful."
+  },
+  {
+    "name": "Curved Monitor",
+    "price": 350,
+    "featured": false,
+    "rating": 4.4,
+    "company": "samsung",
+    "image": "https://example.com/images/monitor.jpg",
+    "description": "Enhance your workspace with this curved monitor. Enjoy immersive visuals and reduce eye strain. Ideal for work and gaming."
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 70,
+    "featured": true,
+    "rating": 4.5,
+    "company": "lenovo",
+    "image": "https://example.com/images/mouse.jpg",
+    "description": "Get precise control with this ergonomic gaming mouse. Customizable buttons and RGB lighting. Designed for serious gamers."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 120,
+    "featured": false,
+    "rating": 4.3,
+    "company": "asus",
+    "image": "https://example.com/images/keyboard.jpg",
+    "description": "Type faster and more accurately with this mechanical keyboard. Durable switches and customizable lighting. A great addition to any setup."
+  },
+  {
+    "name": "Smart TV Stick",
+    "price": 50,
+    "featured": true,
+    "rating": 4.6,
+    "company": "mi",
+    "image": "https://example.com/images/tvstick.jpg",
+    "description": "Stream your favorite shows and movies in HD. Easy to set up and use. Turn any TV into a smart entertainment center."
+  },
+  {
+    "name": "Wireless Charger",
+    "price": 40,
+    "featured": true,
+    "rating": 4.2,
+    "company": "samsung",
+    "image": "https://example.com/images/charger.jpg",
+    "description": "Charge your devices quickly without cables. Sleek design fits any space. Compatible with a wide range of smartphones."
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "price": 180,
+    "featured": true,
+    "rating": 4.7,
+    "company": "sony",
+    "image": "https://example.com/images/noiseheadphones.jpg",
+    "description": "Immerse yourself in music without distractions. These headphones block out ambient noise for clear, detailed sound. Ideal for travel and work."
+  },
+  {
+    "name": "Ultra Slim Laptop",
+    "price": 1100,
+    "featured": false,
+    "rating": 4.8,
+    "company": "apple",
+    "image": "https://example.com/images/slimlaptop.jpg",
+    "description": "This ultra slim laptop combines style with power. Perfect for professionals on the move. Lightweight yet capable of handling heavy tasks."
+  },
+  {
+    "name": "Gaming Tablet",
+    "price": 550,
+    "featured": true,
+    "rating": 4.4,
+    "company": "asus",
+    "image": "https://example.com/images/gamingtablet.jpg",
+    "description": "Enjoy gaming and multimedia on this high-performance tablet. Smooth graphics and fast processing for uninterrupted entertainment."
+  },
+  {
+    "name": "HD Webcam",
+    "price": 90,
+    "featured": false,
+    "rating": 4.3,
+    "company": "lenovo",
+    "image": "https://example.com/images/webcam.jpg",
+    "description": "Stay connected with clear video calls using this HD webcam. Easy setup and sharp image quality. Great for remote work and streaming."
+  },
+  {
+    "name": "Smartphone Max",
+    "price": 950,
+    "featured": true,
+    "rating": 4.6,
+    "company": "oneplus",
+    "image": "https://example.com/images/smartphonemax.jpg",
+    "description": "A powerful smartphone with an impressive display and battery life. Capture stunning photos and enjoy smooth performance all day."
+  },
+  {
+    "name": "Wireless Router",
+    "price": 120,
+    "featured": false,
+    "rating": 4.2,
+    "company": "mi",
+    "image": "https://example.com/images/router.jpg",
+    "description": "Boost your internet speed with this wireless router. Reliable connection and easy setup. Perfect for home and office networks."
+  },
+  {
+    "name": "Portable SSD",
+    "price": 150,
+    "featured": true,
+    "rating": 4.5,
+    "company": "samsung",
+    "image": "https://example.com/images/ssd.jpg",
+    "description": "Store and transfer files quickly with this portable SSD. Compact and durable design. Ideal for professionals needing fast storage."
+  },
+  {
+    "name": "Wireless Earphones",
+    "price": 110,
+    "featured": true,
+    "rating": 4.3,
+    "company": "realme",
+    "image": "https://example.com/images/earphones.jpg",
+    "description": "Experience clear audio and deep bass with these wireless earphones. Comfortable fit for all-day use. Great for workouts and commuting."
+  },
+  {
+    "name": "Curved Gaming Monitor",
+    "price": 400,
+    "featured": false,
+    "rating": 4.7,
+    "company": "asus",
+    "image": "https://example.com/images/curvedmonitor.jpg",
+    "description": "Step into immersive gaming with this curved monitor. High refresh rate and vibrant colors enhance your experience. Perfect for gamers."
+  },
+  {
+    "name": "Smart Home Speaker",
+    "price": 90,
+    "featured": true,
+    "rating": 4.4,
+    "company": "lenovo",
+    "image": "https://example.com/images/homespeaker.jpg",
+    "description": "Control your smart home and enjoy music hands-free. This speaker responds to voice commands and delivers clear sound. A modern home essential."
+  },
+  {
+    "name": "Bluetooth Keyboard",
+    "price": 60,
+    "featured": false,
+    "rating": 4.2,
+    "company": "hp",
+    "image": "https://example.com/images/bkeyboard.jpg",
+    "description": "Type comfortably anywhere with this Bluetooth keyboard. Lightweight and easy to connect. Suitable for tablets, laptops, and smartphones."
+  },
+  {
+    "name": "High Speed Flash Drive",
+    "price": 30,
+    "featured": true,
+    "rating": 4.3,
+    "company": "samsung",
+    "image": "https://example.com/images/flashdrive.jpg",
+    "description": "Quickly transfer files with this high-speed flash drive. Compact size fits easily in your pocket. Great for backups and daily use."
+  },
+  {
+    "name": "Fitness Smart Band",
+    "price": 50,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi",
+    "image": "https://example.com/images/fitnessband.jpg",
+    "description": "Track your steps, heart rate, and sleep with this smart band. Lightweight and comfortable to wear. Stay motivated and active."
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "price": 70,
+    "featured": false,
+    "rating": 4.2,
+    "company": "realme",
+    "image": "https://example.com/images/portablespeaker.jpg",
+    "description": "Enjoy loud, clear audio on the go. This portable speaker connects easily via Bluetooth. Perfect for outdoor adventures and parties."
+  },
+  {
+    "name": "Gaming Keyboard",
+    "price": 130,
+    "featured": true,
+    "rating": 4.6,
+    "company": "asus",
+    "image": "https://example.com/images/gamingkeyboard.jpg",
+    "description": "Enhance your gaming setup with this mechanical keyboard. Responsive keys and customizable lighting make it a gamer’s favorite."
+  },
+  {
+    "name": "Smartphone Lite",
+    "price": 400,
+    "featured": false,
+    "rating": 4.1,
+    "company": "oneplus",
+    "image": "https://example.com/images/smartphonelite.jpg",
+    "description": "A budget-friendly smartphone with smooth performance. Great camera and battery life in a compact design. Perfect for everyday use."
+  },
+  {
+    "name": "Multi-Function Printer",
+    "price": 220,
+    "featured": true,
+    "rating": 4.4,
+    "company": "hp",
+    "image": "https://example.com/images/mfprinter.jpg",
+    "description": "Print, scan, and copy all from one device. High-quality output and wireless connectivity. Ideal for home offices and students."
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "price": 85,
+    "featured": false,
+    "rating": 4.3,
+    "company": "lenovo",
+    "image": "https://example.com/images/gamingmouse.jpg",
+    "description": "Achieve precision in every click with this wireless gaming mouse. Ergonomic design ensures comfort during long gaming sessions."
+  },
+  {
+    "name": "Tablet Lite",
+    "price": 280,
+    "featured": true,
+    "rating": 4.2,
+    "company": "mi",
+    "image": "https://example.com/images/tabletlite.jpg",
+    "description": "A lightweight tablet perfect for reading and browsing. Smooth performance and bright display. Great value for everyday use."
+  },
+  {
+    "name": "USB-C Hub",
+    "price": 40,
+    "featured": false,
+    "rating": 4.2,
+    "company": "samsung",
+    "image": "https://example.com/images/usbhub.jpg",
+    "description": "Expand your laptop’s connectivity with this USB-C hub. Multiple ports for all your devices. Compact and easy to carry."
+  },
+   {
+    "name": "Compact Photo Printer",
+    "price": 180,
+    "featured": true,
+    "rating": 4.5,
+    "company": "hp",
+    "image": "https://example.com/images/photoprinter.jpg",
+    "description": "Print vibrant photos instantly with this compact printer. Easy wireless setup and high-quality prints. Perfect for home and small offices."
+  },
+  {
+    "name": "Gaming Headset",
+    "price": 95,
+    "featured": false,
+    "rating": 4.4,
+    "company": "asus",
+    "image": "https://example.com/images/gamingheadset.jpg",
+    "description": "Immerse yourself in games with this comfortable headset. Clear audio and noise-canceling mic ensure smooth communication with teammates."
+  },
+  {
+    "name": "Smartphone Ultra",
+    "price": 1200,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple",
+    "image": "https://example.com/images/smartphoneultra.jpg",
+    "description": "Experience the best of technology with this flagship smartphone. Stunning display, powerful processor, and professional-grade camera."
+  },
+  {
+    "name": "Wireless Soundbar",
+    "price": 250,
+    "featured": false,
+    "rating": 4.3,
+    "company": "samsung",
+    "image": "https://example.com/images/soundbar.jpg",
+    "description": "Upgrade your TV audio with this sleek wireless soundbar. Rich bass and clear treble create a cinematic experience at home."
+  },
+  {
+    "name": "Portable Hard Drive",
+    "price": 130,
+    "featured": true,
+    "rating": 4.4,
+    "company": "lenovo",
+    "image": "https://example.com/images/harddrive.jpg",
+    "description": "Store all your important files securely. This portable hard drive offers fast data transfer and large capacity in a compact design."
+  },
+  {
+    "name": "Smart Thermostat",
+    "price": 220,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi",
+    "image": "https://example.com/images/thermostat.jpg",
+    "description": "Control your home temperature remotely. Save energy and stay comfortable with this smart thermostat compatible with voice assistants."
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "price": 300,
+    "featured": false,
+    "rating": 4.6,
+    "company": "lenovo",
+    "image": "https://example.com/images/officechair.jpg",
+    "description": "Work in comfort with this ergonomic office chair. Adjustable height and lumbar support help reduce back strain during long hours."
+  },
+  {
+    "name": "4K Action Camera",
+    "price": 270,
+    "featured": true,
+    "rating": 4.7,
+    "company": "sony",
+    "image": "https://example.com/images/actioncamera.jpg",
+    "description": "Capture every adventure in stunning 4K detail. Waterproof and durable design makes it ideal for outdoor activities."
+  },
+  {
+    "name": "Smart Light Bulb",
+    "price": 35,
+    "featured": false,
+    "rating": 4.2,
+    "company": "mi",
+    "image": "https://example.com/images/smartbulb.jpg",
+    "description": "Control your lighting with your phone or voice commands. Change colors and brightness to set the perfect mood."
+  },
+  {
+    "name": "Gaming Chair",
+    "price": 350,
+    "featured": true,
+    "rating": 4.6,
+    "company": "asus",
+    "image": "https://example.com/images/gamingchair.jpg",
+    "description": "Stay comfortable during long gaming sessions. This chair offers adjustable support, high-quality materials, and a sleek design."
+  },
+  {
+    "name": "Smartphone Air",
+    "price": 700,
+    "featured": false,
+    "rating": 4.3,
+    "company": "oneplus",
+    "image": "https://example.com/images/smartphoneair.jpg",
+    "description": "A slim, lightweight smartphone with excellent performance. Enjoy vibrant visuals and smooth multitasking with this stylish device."
+  },
+  {
+    "name": "Noise Cancelling Over-Ear Headphones",
+    "price": 200,
+    "featured": true,
+    "rating": 4.5,
+    "company": "sony",
+    "image": "https://example.com/images/overearheadphones.jpg",
+    "description": "Block out distractions with these over-ear headphones. Enjoy crisp sound and all-day comfort. Ideal for travel and focus."
+  },
+  {
+    "name": "Wireless Security Camera",
+    "price": 180,
+    "featured": true,
+    "rating": 4.4,
+    "company": "mi",
+    "image": "https://example.com/images/securitycamera.jpg",
+    "description": "Keep your home secure with this wireless camera. Easy installation and real-time monitoring via your smartphone."
+  },
+  {
+    "name": "Smartwatch Active",
+    "price": 250,
+    "featured": false,
+    "rating": 4.5,
+    "company": "realme",
+    "image": "https://example.com/images/smartwatchactive.jpg",
+    "description": "Track workouts, monitor health, and stay connected. This smartwatch combines style and functionality for active lifestyles."
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "price": 45,
+    "featured": false,
+    "rating": 4.2,
+    "company": "asus",
+    "image": "https://example.com/images/coolingpad.jpg",
+    "description": "Prevent overheating with this cooling pad. Quiet fans keep your laptop cool during intensive tasks and gaming."
+  },
+  {
+    "name": "Wireless Presenter",
+    "price": 35,
+    "featured": true,
+    "rating": 4.3,
+    "company": "hp",
+    "image": "https://example.com/images/presenter.jpg",
+    "description": "Deliver smooth presentations with this wireless presenter. Features intuitive controls and a laser pointer for clarity."
+  },
+  {
+    "name": "Portable Power Bank",
+    "price": 60,
+    "featured": true,
+    "rating": 4.4,
+    "company": "samsung",
+    "image": "https://example.com/images/powerbank.jpg",
+    "description": "Charge your devices anywhere with this high-capacity power bank. Compact design fits easily in your bag."
+  },
+  {
+    "name": "Smartphone Note",
+    "price": 800,
+    "featured": true,
+    "rating": 4.6,
+    "company": "samsung",
+    "image": "https://example.com/images/smartphonenote.jpg",
+    "description": "Powerful performance meets sleek design. This smartphone offers excellent productivity tools and a brilliant display."
+  },
+  {
+    "name": "Gaming Graphics Card",
+    "price": 650,
+    "featured": false,
+    "rating": 4.7,
+    "company": "asus",
+    "image": "https://example.com/images/graphicscard.jpg",
+    "description": "Upgrade your PC gaming with this advanced graphics card. Smooth frame rates and incredible visuals for the latest games."
+  },
+  {
+    "name": "Smart Home Hub",
+    "price": 150,
+    "featured": true,
+    "rating": 4.5,
+    "company": "lenovo",
+    "image": "https://example.com/images/smarthub.jpg",
+    "description": "Control all your smart devices from one hub. Voice and app control make managing your home effortless."
+  },
+   {
+    "name": "4K Video Drone",
+    "price": 900,
+    "featured": true,
+    "rating": 4.7,
+    "company": "sony",
+    "image": "https://example.com/images/drone.jpg",
+    "description": "Capture stunning aerial footage in 4K resolution. Easy to fly with smart features like auto return and obstacle avoidance."
+  },
+  {
+    "name": "Bluetooth Car Adapter",
+    "price": 40,
+    "featured": false,
+    "rating": 4.3,
+    "company": "mi",
+    "image": "https://example.com/images/caradapter.jpg",
+    "description": "Add Bluetooth connectivity to any car stereo. Enjoy hands-free calls and wireless music streaming on the go."
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "price": 55,
+    "featured": true,
+    "rating": 4.4,
+    "company": "samsung",
+    "image": "https://example.com/images/chargingpad.jpg",
+    "description": "Charge your devices effortlessly with this sleek wireless pad. Fast charging support and minimalist design."
+  },
+  {
+    "name": "Smartphone Edge",
+    "price": 950,
+    "featured": true,
+    "rating": 4.6,
+    "company": "oneplus",
+    "image": "https://example.com/images/smartphoneedge.jpg",
+    "description": "A premium smartphone with curved display and pro-grade cameras. Smooth performance for multitasking and gaming."
+  },
+  {
+    "name": "Gaming Microphone",
+    "price": 120,
+    "featured": false,
+    "rating": 4.5,
+    "company": "asus",
+    "image": "https://example.com/images/microphone.jpg",
+    "description": "Record crystal-clear audio with this gaming microphone. Perfect for streaming, podcasts, and video calls."
+  },
+  {
+    "name": "Tablet Kids Edition",
+    "price": 200,
+    "featured": true,
+    "rating": 4.3,
+    "company": "lenovo",
+    "image": "https://example.com/images/kidstablet.jpg",
+    "description": "Safe and fun tablet for kids with parental controls. Educational apps and durable design for worry-free use."
+  },
+  {
+    "name": "Smart Door Lock",
+    "price": 180,
+    "featured": false,
+    "rating": 4.4,
+    "company": "mi",
+    "image": "https://example.com/images/smartlock.jpg",
+    "description": "Secure your home with this smart door lock. Unlock with fingerprint, PIN, or app for convenience and safety."
+  },
+  {
+    "name": "Portable Air Purifier",
+    "price": 220,
+    "featured": true,
+    "rating": 4.5,
+    "company": "samsung",
+    "image": "https://example.com/images/airpurifier.jpg",
+    "description": "Breathe cleaner air anywhere. This compact purifier removes allergens, smoke, and dust effectively."
+  },
+  {
+    "name": "Smartphone Neo",
+    "price": 750,
+    "featured": false,
+    "rating": 4.2,
+    "company": "realme",
+    "image": "https://example.com/images/smartphoneneo.jpg",
+    "description": "A stylish smartphone with a vibrant display and long-lasting battery. Excellent performance at a great value."
+  },
+  {
+    "name": "Noise Cancelling Earphones",
+    "price": 140,
+    "featured": true,
+    "rating": 4.4,
+    "company": "sony",
+    "image": "https://example.com/images/noisecancellingearphones.jpg",
+    "description": "Experience uninterrupted music with these noise-cancelling earphones. Lightweight design and rich sound."
+  },
+  {
+    "name": "Smart Plug",
+    "price": 25,
+    "featured": true,
+    "rating": 4.3,
+    "company": "mi",
+    "image": "https://example.com/images/smartplug.jpg",
+    "description": "Control appliances remotely and schedule on/off times. Easy to set up with voice assistant compatibility."
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "price": 150,
+    "featured": false,
+    "rating": 4.6,
+    "company": "asus",
+    "image": "https://example.com/images/mechanicalkeyboard.jpg",
+    "description": "Responsive mechanical keys and RGB lighting. Built for gamers who demand precision and speed."
+  },
+  {
+    "name": "Wireless Home Camera",
+    "price": 100,
+    "featured": true,
+    "rating": 4.4,
+    "company": "lenovo",
+    "image": "https://example.com/images/homecamera.jpg",
+    "description": "Monitor your home in HD from anywhere. Motion alerts and night vision keep you informed 24/7."
+  },
+  {
+    "name": "Smartphone Prime",
+    "price": 850,
+    "featured": true,
+    "rating": 4.5,
+    "company": "oneplus",
+    "image": "https://example.com/images/smartphoneprime.jpg",
+    "description": "Flagship performance and stunning design. Capture brilliant photos and enjoy seamless multitasking."
+  },
+   {
+    "name": "Wireless Bluetooth Adapter",
+    "price": 35,
+    "featured": false,
+    "rating": 4.2,
+    "company": "hp",
+    "image": "https://example.com/images/btadapter.jpg",
+    "description": "Add Bluetooth functionality to PCs or speakers. Easy pairing and reliable connection for all your devices."
+  },
+  {
+    "name": "Smartphone Flip",
+    "price": 1100,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung",
+    "image": "https://example.com/images/smartphoneflip.jpg",
+    "description": "A cutting-edge foldable smartphone with large display. Combine innovation and portability in one device."
+  },
+  {
+    "name": "Gaming Headset Pro",
+    "price": 160,
+    "featured": false,
+    "rating": 4.5,
+    "company": "asus",
+    "image": "https://example.com/images/headsetpro.jpg",
+    "description": "Enhanced surround sound and clear microphone. Built for pro gamers seeking immersive experiences."
+  },
+  {
+    "name": "Smartphone Core",
+    "price": 600,
+    "featured": true,
+    "rating": 4.3,
+    "company": "realme",
+    "image": "https://example.com/images/smartphonecore.jpg",
+    "description": "A reliable smartphone with great battery and smooth interface. Perfect for everyday tasks and entertainment."
+  },
+  {
+    "name": "Wireless Gaming Controller",
+    "price": 90,
+    "featured": false,
+    "rating": 4.4,
+    "company": "lenovo",
+    "image": "https://example.com/images/controller.jpg",
+    "description": "Play wirelessly with precision controls. Compatible with consoles, PCs, and mobile devices for versatile gaming."
+  },
+  {
+    "name": "Smart Display",
+    "price": 190,
+    "featured": true,
+    "rating": 4.5,
+    "company": "lenovo",
+    "image": "https://example.com/images/smartdisplay.jpg",
+    "description": "Stay informed and entertained with this smart display. Voice commands, video calls, and home control all in one."
+  }
+]
