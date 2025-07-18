@@ -1,6 +1,4 @@
 const Product = require("../models/model");
-
-// ✅ GET All Products with optional filtering
 const getAllProducts = async (req, res) => {
   try {
     const { company, name } = req.query;
@@ -13,18 +11,11 @@ const getAllProducts = async (req, res) => {
     }
 
     if (name) {
-      filter.name = { $regex: name, $options: "i" }; // case-insensitive search
+      filter.name = { $regex: name, $options: "i" };
     }
-
     const products = await Product.find(filter);
 
-    // Add placeholder images
-    const productsWithImages = products.map((p) => ({
-      ...p._doc,
-      image: `https://via.placeholder.com/400x300?text=${encodeURIComponent(p.name)}`,
-    }));
-
-    res.status(200).json(productsWithImages);
+    res.status(200).json(products);
   } catch (err) {
     console.error("❌ Error fetching products:", err);
     res.status(500).json({ message: "Internal Server Error" });
