@@ -5,7 +5,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1580894908360-808dcdfda45b?w=800",
+    "image": "https://source.unsplash.com/featured/?headphones",
     "description": "Enjoy rich, immersive sound with these wireless headphones. They offer long battery life and superior comfort for extended listening sessions. Ideal for music lovers and gamers."
   },
   {
@@ -14,7 +14,7 @@
     "featured": false,
     "rating": 4.8,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?laptop,gaming",
     "description": "This powerful gaming laptop features a high-refresh-rate display and advanced graphics. Experience smooth gameplay and blazing-fast performance. Perfect for serious gamers and creators."
   },
   {
@@ -23,7 +23,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "apple",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,apple",
     "description": "The Smartphone Pro delivers stunning photos and lightning-fast performance. Its sleek design fits comfortably in your hand. A perfect companion for work and play."
   },
   {
@@ -32,7 +32,7 @@
     "featured": false,
     "rating": 4.4,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?tv,4k",
     "description": "Bring your entertainment to life with this vibrant 4K LED TV. Enjoy crystal-clear visuals and rich audio. Great for movies, sports, and gaming."
   },
   {
@@ -41,7 +41,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800",
+    "image": "https://source.unsplash.com/featured/?bluetooth,speaker",
     "description": "This portable Bluetooth speaker delivers powerful sound in a compact size. Its long-lasting battery keeps your music going all day. Perfect for parties and travel."
   },
   {
@@ -50,7 +50,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "image": "https://source.unsplash.com/featured/?tablet",
     "description": "The Tablet S offers smooth multitasking and a crisp display. Great for reading, browsing, and entertainment on the go. Lightweight and easy to carry."
   },
   {
@@ -59,7 +59,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800",
+    "image": "https://source.unsplash.com/featured/?smartwatch",
     "description": "Track your fitness and stay connected with this smart watch. It features health monitoring and notifications at a glance. Stylish and functional."
   },
   {
@@ -68,7 +68,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+    "image": "https://source.unsplash.com/featured/?printer",
     "description": "Print, scan, and copy with this versatile all-in-one printer. Enjoy high-quality prints and wireless connectivity. Perfect for home or office use."
   },
   {
@@ -77,7 +77,7 @@
     "featured": true,
     "rating": 4.8,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+    "image": "https://source.unsplash.com/featured/?gaming,console",
     "description": "Dive into immersive gaming with this next-gen console. Enjoy fast load times and stunning graphics. Ideal for hardcore gamers."
   },
   {
@@ -86,7 +86,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?earbuds,noise-cancelling",
     "description": "These earbuds block out unwanted noise for a pure listening experience. Comfortable fit and excellent sound quality. Great for travel and daily use."
   },
   {
@@ -95,7 +95,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800",
+    "image": "https://source.unsplash.com/featured/?projector,portable",
     "description": "Project your favorite movies and presentations anywhere. Compact design with bright, clear visuals. Perfect for home entertainment and business."
   },
   {
@@ -104,7 +104,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?w=800",
+    "image": "https://source.unsplash.com/featured/?fitness,tracker",
     "description": "Monitor your activity and health stats throughout the day. Lightweight and comfortable to wear. Stay motivated with this smart fitness tracker."
   },
   {
@@ -113,7 +113,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1512499617640-c2f999098c01?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,mini",
     "description": "Compact yet powerful, this smartphone fits in your pocket. Fast performance and great camera quality. Ideal for those who prefer smaller devices."
   },
   {
@@ -122,7 +122,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?laptop,business",
     "description": "This business laptop combines performance with portability. Ideal for productivity and multitasking. Sleek design and long battery life."
   },
   {
@@ -131,7 +131,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "apple",
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "image": "https://source.unsplash.com/featured/?tablet,pro",
     "description": "Experience the power of a laptop in a tablet. Perfect for creative work, gaming, and streaming. Lightweight and powerful."
   },
   {
@@ -140,7 +140,7 @@
     "featured": false,
     "rating": 4.4,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?monitor,curved",
     "description": "Enhance your workspace with this curved monitor. Enjoy immersive visuals and reduce eye strain. Ideal for work and gaming."
   },
   {
@@ -149,7 +149,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?gaming,mouse",
     "description": "Get precise control with this ergonomic gaming mouse. Customizable buttons and RGB lighting. Designed for serious gamers."
   },
   {
@@ -158,7 +158,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?mechanical,keyboard",
     "description": "Type faster and more accurately with this mechanical keyboard. Durable switches and customizable lighting. A great addition to any setup."
   },
   {
@@ -167,7 +167,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?tv,stick",
     "description": "Stream your favorite shows and movies in HD. Easy to set up and use. Turn any TV into a smart entertainment center."
   },
   {
@@ -176,7 +176,7 @@
     "featured": true,
     "rating": 4.2,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?wireless,charger",
     "description": "Charge your devices quickly without cables. Sleek design fits any space. Compatible with a wide range of smartphones."
   },
   {
@@ -185,7 +185,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?headphones,noise-cancelling",
     "description": "Immerse yourself in music without distractions. These headphones block out ambient noise for clear, detailed sound. Ideal for travel and work."
   },
   {
@@ -194,7 +194,7 @@
     "featured": false,
     "rating": 4.8,
     "company": "apple",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?laptop,slim",
     "description": "This ultra slim laptop combines style with power. Perfect for professionals on the move. Lightweight yet capable of handling heavy tasks."
   },
   {
@@ -203,7 +203,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "image": "https://source.unsplash.com/featured/?tablet,gaming",
     "description": "Enjoy gaming and multimedia on this high-performance tablet. Smooth graphics and fast processing for uninterrupted entertainment."
   },
   {
@@ -212,7 +212,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?webcam,hd",
     "description": "Stay connected with clear video calls using this HD webcam. Easy setup and sharp image quality. Great for remote work and streaming."
   },
   {
@@ -221,7 +221,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,max",
     "description": "A powerful smartphone with an impressive display and battery life. Capture stunning photos and enjoy smooth performance all day."
   },
   {
@@ -230,7 +230,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?router,wireless",
     "description": "Boost your internet speed with this wireless router. Reliable connection and easy setup. Perfect for home and office networks."
   },
   {
@@ -239,7 +239,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?ssd,portable",
     "description": "Store and transfer files quickly with this portable SSD. Compact and durable design. Ideal for professionals needing fast storage."
   },
   {
@@ -248,7 +248,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?earphones,wireless",
     "description": "Experience clear audio and deep bass with these wireless earphones. Comfortable fit for all-day use. Great for workouts and commuting."
   },
   {
@@ -257,7 +257,7 @@
     "featured": false,
     "rating": 4.7,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?monitor,gaming,curved",
     "description": "Step into immersive gaming with this curved monitor. High refresh rate and vibrant colors enhance your experience. Perfect for gamers."
   },
   {
@@ -266,7 +266,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800",
+    "image": "https://source.unsplash.com/featured/?speaker,smart,home",
     "description": "Control your smart home and enjoy music hands-free. This speaker responds to voice commands and delivers clear sound. A modern home essential."
   },
   {
@@ -275,7 +275,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?keyboard,bluetooth",
     "description": "Type comfortably anywhere with this Bluetooth keyboard. Lightweight and easy to connect. Suitable for tablets, laptops, and smartphones."
   },
   {
@@ -284,7 +284,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?flash,drive,usb",
     "description": "Quickly transfer files with this high-speed flash drive. Compact size fits easily in your pocket. Great for backups and daily use."
   },
   {
@@ -293,7 +293,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?w=800",
+    "image": "https://source.unsplash.com/featured/?fitness,band",
     "description": "Track your steps, heart rate, and sleep with this smart band. Lightweight and comfortable to wear. Stay motivated and active."
   },
   {
@@ -302,7 +302,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800",
+    "image": "https://source.unsplash.com/featured/?speaker,bluetooth,portable",
     "description": "Enjoy loud, clear audio on the go. This portable speaker connects easily via Bluetooth. Perfect for outdoor adventures and parties."
   },
   {
@@ -311,7 +311,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?keyboard,gaming",
     "description": "Enhance your gaming setup with this mechanical keyboard. Responsive keys and customizable lighting make it a gamer’s favorite."
   },
   {
@@ -320,7 +320,7 @@
     "featured": false,
     "rating": 4.1,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,lite",
     "description": "A budget-friendly smartphone with smooth performance. Great camera and battery life in a compact design. Perfect for everyday use."
   },
   {
@@ -329,7 +329,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+    "image": "https://source.unsplash.com/featured/?printer,multifunction",
     "description": "Print, scan, and copy all from one device. High-quality output and wireless connectivity. Ideal for home offices and students."
   },
   {
@@ -338,7 +338,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?mouse,gaming,wireless",
     "description": "Achieve precision in every click with this wireless gaming mouse. Ergonomic design ensures comfort during long gaming sessions."
   },
   {
@@ -347,7 +347,7 @@
     "featured": true,
     "rating": 4.2,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "image": "https://source.unsplash.com/featured/?tablet,lite",
     "description": "A lightweight tablet perfect for reading and browsing. Smooth performance and bright display. Great value for everyday use."
   },
   {
@@ -356,7 +356,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?hub,usb-c",
     "description": "Expand your laptop’s connectivity with this USB-C hub. Multiple ports for all your devices. Compact and easy to carry."
   },
    {
@@ -365,7 +365,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+    "image": "https://source.unsplash.com/featured/?printer,photo,compact",
     "description": "Print vibrant photos instantly with this compact printer. Easy wireless setup and high-quality prints. Perfect for home and small offices."
   },
   {
@@ -374,7 +374,7 @@
     "featured": false,
     "rating": 4.4,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?headset,gaming",
     "description": "Immerse yourself in games with this comfortable headset. Clear audio and noise-canceling mic ensure smooth communication with teammates."
   },
   {
@@ -383,7 +383,7 @@
     "featured": true,
     "rating": 4.8,
     "company": "apple",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,ultra",
     "description": "Experience the best of technology with this flagship smartphone. Stunning display, powerful processor, and professional-grade camera."
   },
   {
@@ -392,7 +392,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?soundbar,wireless",
     "description": "Upgrade your TV audio with this sleek wireless soundbar. Rich bass and clear treble create a cinematic experience at home."
   },
   {
@@ -401,7 +401,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?hard,drive,portable",
     "description": "Store all your important files securely. This portable hard drive offers fast data transfer and large capacity in a compact design."
   },
   {
@@ -410,7 +410,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?thermostat,smart",
     "description": "Control your home temperature remotely. Save energy and stay comfortable with this smart thermostat compatible with voice assistants."
   },
   {
@@ -419,7 +419,7 @@
     "featured": false,
     "rating": 4.6,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?chair,office,ergonomic",
     "description": "Work in comfort with this ergonomic office chair. Adjustable height and lumbar support help reduce back strain during long hours."
   },
   {
@@ -428,7 +428,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?camera,action,4k",
     "description": "Capture every adventure in stunning 4K detail. Waterproof and durable design makes it ideal for outdoor activities."
   },
   {
@@ -437,7 +437,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?bulb,smart,light",
     "description": "Control your lighting with your phone or voice commands. Change colors and brightness to set the perfect mood."
   },
   {
@@ -446,7 +446,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?chair,gaming",
     "description": "Stay comfortable during long gaming sessions. This chair offers adjustable support, high-quality materials, and a sleek design."
   },
   {
@@ -455,7 +455,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,air",
     "description": "A slim, lightweight smartphone with excellent performance. Enjoy vibrant visuals and smooth multitasking with this stylish device."
   },
   {
@@ -464,7 +464,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?headphones,over-ear,noise-cancelling",
     "description": "Block out distractions with these over-ear headphones. Enjoy crisp sound and all-day comfort. Ideal for travel and focus."
   },
   {
@@ -473,7 +473,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?camera,security,wireless",
     "description": "Keep your home secure with this wireless camera. Easy installation and real-time monitoring via your smartphone."
   },
   {
@@ -482,7 +482,7 @@
     "featured": false,
     "rating": 4.5,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800",
+    "image": "https://source.unsplash.com/featured/?smartwatch,active",
     "description": "Track workouts, monitor health, and stay connected. This smartwatch combines style and functionality for active lifestyles."
   },
   {
@@ -491,7 +491,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?cooling,pad,laptop",
     "description": "Prevent overheating with this cooling pad. Quiet fans keep your laptop cool during intensive tasks and gaming."
   },
   {
@@ -500,7 +500,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?presenter,wireless",
     "description": "Deliver smooth presentations with this wireless presenter. Features intuitive controls and a laser pointer for clarity."
   },
   {
@@ -509,7 +509,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?powerbank,portable",
     "description": "Charge your devices anywhere with this high-capacity power bank. Compact design fits easily in your bag."
   },
   {
@@ -518,7 +518,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,note",
     "description": "Powerful performance meets sleek design. This smartphone offers excellent productivity tools and a brilliant display."
   },
   {
@@ -527,7 +527,7 @@
     "featured": false,
     "rating": 4.7,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?graphics,card,gaming",
     "description": "Upgrade your PC gaming with this advanced graphics card. Smooth frame rates and incredible visuals for the latest games."
   },
   {
@@ -536,7 +536,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?hub,smart,home",
     "description": "Control all your smart devices from one hub. Voice and app control make managing your home effortless."
   },
    {
@@ -545,7 +545,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800",
+    "image": "https://source.unsplash.com/featured/?drone,4k,video",
     "description": "Capture stunning aerial footage in 4K resolution. Easy to fly with smart features like auto return and obstacle avoidance."
   },
   {
@@ -554,7 +554,7 @@
     "featured": false,
     "rating": 4.3,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?car,adapter,bluetooth",
     "description": "Add Bluetooth connectivity to any car stereo. Enjoy hands-free calls and wireless music streaming on the go."
   },
   {
@@ -563,7 +563,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?charging,pad,wireless",
     "description": "Charge your devices effortlessly with this sleek wireless pad. Fast charging support and minimalist design."
   },
   {
@@ -572,7 +572,7 @@
     "featured": true,
     "rating": 4.6,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,edge",
     "description": "A premium smartphone with curved display and pro-grade cameras. Smooth performance for multitasking and gaming."
   },
   {
@@ -581,7 +581,7 @@
     "featured": false,
     "rating": 4.5,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?microphone,gaming",
     "description": "Record crystal-clear audio with this gaming microphone. Perfect for streaming, podcasts, and video calls."
   },
   {
@@ -590,7 +590,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "image": "https://source.unsplash.com/featured/?tablet,kids,edition",
     "description": "Safe and fun tablet for kids with parental controls. Educational apps and durable design for worry-free use."
   },
   {
@@ -599,7 +599,7 @@
     "featured": false,
     "rating": 4.4,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?lock,door,smart",
     "description": "Secure your home with this smart door lock. Unlock with fingerprint, PIN, or app for convenience and safety."
   },
   {
@@ -608,7 +608,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?air,purifier,portable",
     "description": "Breathe cleaner air anywhere. This compact purifier removes allergens, smoke, and dust effectively."
   },
   {
@@ -617,7 +617,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,neo",
     "description": "A stylish smartphone with a vibrant display and long-lasting battery. Excellent performance at a great value."
   },
   {
@@ -626,7 +626,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "sony",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?earphones,noise-cancelling",
     "description": "Experience uninterrupted music with these noise-cancelling earphones. Lightweight design and rich sound."
   },
   {
@@ -635,7 +635,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "mi",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?plug,smart",
     "description": "Control appliances remotely and schedule on/off times. Easy to set up with voice assistant compatibility."
   },
   {
@@ -644,7 +644,7 @@
     "featured": false,
     "rating": 4.6,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?keyboard,mechanical,gaming",
     "description": "Responsive mechanical keys and RGB lighting. Built for gamers who demand precision and speed."
   },
   {
@@ -653,7 +653,7 @@
     "featured": true,
     "rating": 4.4,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?camera,home,wireless",
     "description": "Monitor your home in HD from anywhere. Motion alerts and night vision keep you informed 24/7."
   },
   {
@@ -662,7 +662,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "oneplus",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,prime",
     "description": "Flagship performance and stunning design. Capture brilliant photos and enjoy seamless multitasking."
   },
    {
@@ -671,7 +671,7 @@
     "featured": false,
     "rating": 4.2,
     "company": "hp",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?adapter,bluetooth,wireless",
     "description": "Add Bluetooth functionality to PCs or speakers. Easy pairing and reliable connection for all your devices."
   },
   {
@@ -680,7 +680,7 @@
     "featured": true,
     "rating": 4.7,
     "company": "samsung",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,flip",
     "description": "A cutting-edge foldable smartphone with large display. Combine innovation and portability in one device."
   },
   {
@@ -689,7 +689,7 @@
     "featured": false,
     "rating": 4.5,
     "company": "asus",
-    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+    "image": "https://source.unsplash.com/featured/?headset,gaming,pro",
     "description": "Enhanced surround sound and clear microphone. Built for pro gamers seeking immersive experiences."
   },
   {
@@ -698,7 +698,7 @@
     "featured": true,
     "rating": 4.3,
     "company": "realme",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "image": "https://source.unsplash.com/featured/?smartphone,core",
     "description": "A reliable smartphone with great battery and smooth interface. Perfect for everyday tasks and entertainment."
   },
   {
@@ -707,7 +707,7 @@
     "featured": false,
     "rating": 4.4,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "https://source.unsplash.com/featured/?controller,gaming,wireless",
     "description": "Play wirelessly with precision controls. Compatible with consoles, PCs, and mobile devices for versatile gaming."
   },
   {
@@ -716,7 +716,7 @@
     "featured": true,
     "rating": 4.5,
     "company": "lenovo",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "image": "https://source.unsplash.com/featured/?display,smart",
     "description": "Stay informed and entertained with this smart display. Voice commands, video calls, and home control all in one."
   }
 ]
