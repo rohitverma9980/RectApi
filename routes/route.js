@@ -1,18 +1,18 @@
 const express = require("express");
 const router = express.Router();
-const Product = require("../models/model")// मान लो Mongoose मॉडल
+const Product = require("../models/model"); // ✅ Mongoose model import
 
 // ✅ Products API
 router.get("/", async (req, res) => {
   try {
-    // DB से products fetch कर लो
+    // DB से products fetch
     const products = await Product.find({});
 
-    // ✅ हर product में placeholder image जोड़ो
+    // ✅ हर product में dynamic placeholder image जोड़ना
     const productsWithImages = products.map((p) => ({
-      ...p._doc, // Mongoose doc को normal JS object में convert करने के लिए
+      ...p._doc, // Mongoose document → plain JS object
       image: `https://via.placeholder.com/400x300?text=${encodeURIComponent(
-        p.name
+        p.name || "Product"
       )}`,
     }));
 
