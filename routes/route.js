@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const Product = require("../models/product"); // मान लो Mongoose मॉडल
+const Product = require("../models/model")// मान लो Mongoose मॉडल
 
 // ✅ Products API
 router.get("/", async (req, res) => {
